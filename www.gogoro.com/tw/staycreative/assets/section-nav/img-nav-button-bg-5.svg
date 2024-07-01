@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="170px" height="82px" viewBox="0 0 170 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>img-nav-button-bg-5</title>
+    <defs>
+        <polygon id="path-1" points="0 0 130.7886 0 130.7886 41.615 0 41.615"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M47.4186,28.6923 C47.4186,28.6923 82.4276,2.6003 85.0696,2.6003 L120.0786,28.6923" id="Stroke-20" stroke="#FFFFFF"></path>
+        <path d="M90.024,6.7841 C90.024,9.7021 87.658,12.0681 84.739,12.0681 C81.821,12.0681 79.455,9.7021 79.455,6.7841 C79.455,3.8661 81.821,1.5001 84.739,1.5001 C87.658,1.5001 90.024,3.8661 90.024,6.7841" id="Fill-21" fill="#154B9F"></path>
+        <path d="M90.024,6.7841 C90.024,9.7021 87.658,12.0681 84.739,12.0681 C81.821,12.0681 79.455,9.7021 79.455,6.7841 C79.455,3.8661 81.821,1.5001 84.739,1.5001 C87.658,1.5001 90.024,3.8661 90.024,6.7841 Z" id="Stroke-22" stroke="#FFFFFF"></path>
+        <g id="Group-34" transform="translate(24.778400, 33.763400)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-33"></g>
+        </g>
+    </g>
+</svg>

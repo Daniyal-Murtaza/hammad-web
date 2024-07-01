@@ -1,0 +1,71 @@
+.container {
+  width: 100%;
+  padding-right: var(--ggr-gutter-x, 30px);
+  padding-left: var(--ggr-gutter-x, 30px);
+  margin-right: auto;
+  margin-left: auto;
+  box-sizing: border-box
+}
+
+@media(min-width: 576px) {
+  .container-sm,.container {
+      max-width:540px
+  }
+}
+
+@media(min-width: 768px) {
+  .container-md,.container-sm,.container {
+      max-width:720px
+  }
+}
+
+@media(min-width: 992px) {
+  .container-lg,.container-md,.container-sm,.container {
+      max-width:960px
+  }
+}
+
+@media(min-width: 1260px) {
+  .container-xl,.container-lg,.container-md,.container-sm,.container {
+      max-width:1200px
+  }
+}
+
+
+.section-sosumi {
+  --sosumi-bg-color: #f6f6f6;
+  background-color: var(--sosumi-bg-color);
+  padding: 64px 0
+}
+
+html[dark] .section-sosumi {
+  --sosumi-bg-color: #121215
+}
+
+@media(min-width: 768px) {
+  .section-sosumi {
+      padding:96px 0
+  }
+}
+
+@media(min-width: 992px) {
+  .section-sosumi {
+      padding:120px 0
+  }
+}
+
+.sosumi-items {
+  font-size: 12px;
+  color: #737d82;
+  line-height: 1.33;
+  padding-left: 1.5em;
+  list-style: disc;
+}
+
+.sosumi-items p {
+  margin: 0 0 2px 0
+}
+
+.sosumi-item+.sosumi-item {
+  margin: 8px 0 0 0
+}

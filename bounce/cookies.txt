@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.gogoro.com	TRUE	/	FALSE	1999999999	_gogoro_about_session	hxIIii1RsbHh%2BVhMcO7FAL%2F7DX0JWM3pa1svS2DfC7iRLcX0Zp6ESndSL9haCJUPtbnWS%2BRZiwQ2m%2BmQOIDWy5ylnrESwodVR6f6sGbWTkkXVkGw99qFjR10Dx13xzyIe9KfOaC4dSEpXO8ONlIiqyyDvOQBY61Shecblq1DzsOMVJDrxJZfHBktkLfET5v2lj6JnE4kE8dyW1jDi2Ms09TtmQQTp4dOHRviwc0JZjII2uLOLeApOK2C1BhMCkn34aMOyn3Fr4nK4Flmw5aNPKpCjdd0QO5g3UTcKis%3D--QNOTiJMdVjj8D17J--HEIDHJopnUZA9Cg3oo8zZg%3D%3D
+www.gogoro.com	TRUE	/	FALSE	1999999999	samesite	lax
+
